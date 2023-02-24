@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Activity/.vs/Activity/v16
+/Activity/obj/Debug
+/Activity/obj/Release
